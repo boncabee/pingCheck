@@ -1,5 +1,5 @@
 # pingCheck
-A windows batch file to check your ping connection to internet(google)
+A windows batch file to check your ping connection to internet(google) by opening win cmd prompt
 
 ## How to run
 Download `pingCheck.bat` > put to your Desktop > run (doubble click)
